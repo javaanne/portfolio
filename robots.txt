@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # After deploying, replace YOUR-SITE-URL and remove the "#" below:
-# Sitemap: https://YOUR-SITE-URL/sitemap.xml
+# Sitemap: https://javaanne.github.io/portfolio/sitemap.xml
